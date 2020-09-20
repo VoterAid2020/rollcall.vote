@@ -34,41 +34,21 @@ youtube_username                          : # none
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Pick your Voting Preference.
+    description                           : Whether you want to vote by mail or in person, we'll help you find the right details.
+    fontawesome_icon_name                 : question
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Learn more about Mail-In Voting.
+    description                           : Do you need to apply? Who do you mail your ballot to? We'll help you find out.
+    fontawesome_icon_name                 : mail-bulk
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Share Your Status With Your Local Representatives.
+    description                           : Check in daily and let us know if you've gotten your mail-in ballot. If you haven't, we'll contact your local Election Board on your behalf.
+    fontawesome_icon_name                 : comments
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : See What's Happening in Your State.
+    description                           : We'll share details on who's voting and how as we get closer to Election Day.
+    fontawesome_icon_name                 : poll
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
