@@ -35,21 +35,22 @@
                                     </clipPath>
                                 </defs>
                             </svg>
-                            <img class="appIconLarge" src="{{ site.app_icon }}">
+                      
                         </div>
                         <div class="appNamePriceContainer">
+                            <!-- fyi still need to figure out how to auto-update state name based on page title! -->
                             <h1 class="appName">
-                                Hey, Michigan. Come work with us to make voting more transparent in 2020.
+                                Hey, Michigan. Help us make voting more transparent in 2020.
                             </h1>
-                            <h2 class="appPrice">
-                                {{ site.app_price }}
-                            </h2>
                         </div>
+   <!-- for adding in later?                   
                         <div class="appDescriptionContainer">
                             <p class ="appDescription">
                                 {{ site.app_description }}
                             </p>
-                        </div>
+                        </div> 
+        -->
+
                         <div class="downloadButtonsContainer">
                             {% if site.playstore_link %}
                                 <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
