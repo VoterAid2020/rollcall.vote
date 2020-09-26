@@ -1,4 +1,4 @@
-### RollCall.Vote Test Site
+### RollCall.Vote Landing Page
 
 
 ### Steps for completion: Enter iOS App ID in `_config.yml`
