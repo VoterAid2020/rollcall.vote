@@ -7,6 +7,7 @@ ios_app_id                                : 00000000                            
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link  : # Enter Google Play Store URL.
 terms_link                                : https://rollcall.vote/terms/              # Terms and Conditions Link
+donate_link                               : https://www.buymeacoffee.com/1wxzb87      # Beveled Guilt Link
 beta_link                                 : https://rollcallvote2020.typeform.com/to/ywV8XGiL      #Link to Beta Test
 presskit_download_link                    : https://www.notion.so/RollCall-vote-a97617632a0f418f9ad6c639e98c6dcc                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
