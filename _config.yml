@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : RollCall                                
 your_link                                 : https://rollcall.vote                   
-your_city                                 : #                               
+your_city                                 : a bunch of different cities :heart:                              
 email_address                             : rollcallvote2020@gmail.com
 facebook_username                         : # none                                          
 instagram_username                        : # none
@@ -36,21 +36,21 @@ youtube_username                          : # none
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Pick your Voting Preference.
-    description                           : Whether you want to vote by mail or in person, we'll help you find the right details.
+  - title                                 : Make a plan to Vote.
+    description                           : Whether you plan to vote by mail or in person, we'll help you find the details you need to make sure your ballot is counted.
     fontawesome_icon_name                 : question
     
-  - title                                 : Learn more about Mail-In Voting.
-    description                           : Do you need to apply? Who do you mail your ballot to? We'll help you find out.
-    fontawesome_icon_name                 : mail-bulk
-
-  - title                                 : Share Your Status With Your Local Representatives.
-    description                           : Check in daily and let us know if you've gotten your mail-in ballot. If you haven't, we'll contact your local Election Board on your behalf.
+  - title                                 : Let your local representatives know what's happening.
+    description                           : Voter participation in Rollcall helps local election boards safely and securely get ahead of communities where ballots are not getting received or sent in time.
     fontawesome_icon_name                 : comments
 
-  - title                                 : See What's Happening in Your State.
-    description                           : We'll share details on who's voting and how as we get closer to Election Day.
+  - title                                 : Track community engagement, together.
+    description                           : Rollcall gives you insights into how your community is planning to vote, so that you can take specific steps to increase turnout and impact.
     fontawesome_icon_name                 : poll
+
+  - title                                 : #
+    description                           : #
+    fontawesome_icon_name                 : #
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
